@@ -211,16 +211,23 @@
             console.error('Error loading JSON:', error);
         });
 
-    // Function to get color based on polarity score
-    function getColorFromScore(score) {
-        if (score < 0) {
-            const redValue = Math.floor(255 + (score * 255)); // From 255 to 0 for negative values
-            return `rgb(${redValue}, 0, 0)`; // Red shades
-        } else {
-            const blueValue = Math.floor(score * 255); // From 0 to 255 for positive values
-            return `rgb(0, 0, ${blueValue})`; // Blue shades
-        }
+        function getColorFromScore(score) {
+    // Ensure score is between -1 and 1
+    score = Math.max(-1, Math.min(1, score));
+
+    if (score < 0) {
+        // For negative scores (smooth red transition, reducing blue component)
+        const intensity = Math.floor(125 * (1 + score)); // From 0 to 255 as score goes from -1 to 0
+        return `rgb(255, ${intensity}, ${intensity})`; // Red to lighter red
+    } else {
+        // For positive scores (smooth blue transition, reducing red component)
+        const intensity = Math.floor(175 * (1 - score)); // From 255 to 0 as score goes from 0 to 1
+        return `rgb(${intensity}, ${intensity}, 255)`; // Lighter blue to blue
     }
+}
+
+
+   
 </script>
 
 
