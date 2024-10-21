@@ -2,43 +2,36 @@
   {
     "state": "Johor",
     "polarity": "Positive",
-    "topic_label": "politics",
-    "summary": "Jland Group, Damansara Holdings Berhad, Zaquin Resources, and investor Dato Avinderjit Singh have formed a strategic partnership to enhance waste management solutions. The joint venture, Jlg Zaquin Sdn Bhd Jlgz, will focus on smart waste management solutions, leveraging technology and data to enhance efficiency and sustainability within the waste industry. The partnership was signed by Datuk Sr Akmal Ahmad, deputy chairman of Jlg Group, and Damansara Holdings Berhad. The partnership is expected to expand to other states in the near future.",
+    "topic_label": "tragedy",
+    "summary": "Jland Group, Damansara Holdings Berhad, Zaquin Resources, and an investor have formed a strategic partnership to enhance waste management solutions. The joint venture, Jlg Zaquin Sdn Bhd Jlgz, will focus on smart waste management solutions, leveraging technology and data to enhance efficiency and sustainability within the waste industry. The partnership was signed deputy chairman of Jlg Group, and Damansara Holdings Berhad. The partnership is expected to expand to other states in the near future.",
     "polarity_score": 0.128
   },
   {
     "state": "Johor",
     "polarity": "Negative",
-    "topic_label": "tragedy",
-    "summary": "A tourbus driver was believed to have lost control of his vehicle, causing it to skid and land on its side. A federal court hearing in Johor Bahru set aside the hanging sentence given to an unemployed person for stabbing a teenage girl leading to death in 2010. Scammers are rehashing the old con with a new twist, known as \"pig butchering,\" which combines love scams with sophisticated financial fraud involving crypto currency and investment schemes. Between 2022 and June 2024, 52 people have fallen victim to the scam, losing more than RMB5 million in total. Police are seeing an uptick in pigbutchering scams in southeast Asia.",
-    "polarity_score": -0.9607
-  },
-  {
-    "state": "Johor",
-    "polarity": "Negative",
     "topic_label": "travel",
-    "summary": "Assalamualaikumwe, collectors of old money and coins in Malaysia, are seeking items for sale in their shop. They are seeking coins, stamps, rings, stamps, mosaics, vintage keinzle alarm clocks, and information on return and pricing.",
-    "polarity_score": -0.34
+    "summary": "A tourbus driver was believed to have lost control of his vehicle, causing it to skid and land on its side. ",
+    "polarity_score": -0.9607
   },
   {
     "state": "Johor",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "Tunku Mahkota Ismail, the regent of Johor, shared photos of a meeting with Kim Pan Gon, who allegedly had a good football discussion. This follows Tunku Mahkota Ismail, who owns Johor Darul Ta'zim JDT, requesting clarification on Pan Gon's comments about a potential increase in rent. The discussion focused on developing an ecommerce marketing system for coconut-based products in Bagan Datuk District.",
+    "summary": "TJohor regent shared photos of a meeting, discussing ecommerce marketing for coconut-based products in Bagan Datuk District.",
     "polarity_score": 0.8481
   },
   {
     "state": "Johor",
-    "polarity": "Positive",
+    "polarity": "Negative",
     "topic_label": "tragedy",
-    "summary": "A maid in Johor is seeking a job to care for a 6-month-old baby and a 6-year-old girl who went missing at the Bonodori Festival. The girl, Liao Jiahui, is from Kluang and is missing after 12 hours. If anyone has dashcam footage or phone photos of the girl, please share them. The girl's name and facial features may have been changed. The mother is heartbroken and hopes her daughter can return safely. The maid is also seeking a used car valuation and a panelist for the Hari Malaria Sedunia Peringkat Negeri Johor.",
-    "polarity_score": 0.802
+    "summary": "A 6-year-old girl went missing at the Bonodori Festival. The girl, is from Kluang and is missing after 12 hours. If anyone has dashcam footage or phone photos of the girl, please share them. The girl's name and facial features may have been changed. The mother is heartbroken and hopes her daughter can return safely. A federal court hearing in Johor Bahru set aside the hanging sentence given to an unemployed person for stabbing a teenage girl leading to death in 2010. Scammers are rehashing the old con with a new twist, known as \"pig butchering,\" which combines love scams with sophisticated financial fraud involving crypto currency and investment schemes. Between 2022 and June 2024, 52 people have fallen victim to the scam, losing more than RMB5 million in total. Police are seeing an uptick in pigbutchering scams in southeast Asia.",
+    "polarity_score": -0.67
   },
   {
     "state": "Johor",
     "polarity": "Positive",
     "topic_label": "travel",
-    "summary": "Hey everyone, I'm Nicky, a 30-year-old from Bangkok, Thailand. I've recently started traveling alone and have been to China and Hong Kong. Next, I'm heading to Malaysia and Singapore, so I'd love some recommendations for tourist attractions. I'm a ladyboy, so I'm hoping for kindness from people. Thanks in advance for your advice!",
+    "summary": "I've recently started traveling alone and have been to China and Hong Kong. Next, I'm heading to Malaysia and Singapore, so I'd love some recommendations for tourist attractions. I'm a ladyboy, so I'm hoping for kindness from people. Thanks in advance for your advice!",
     "polarity_score": 0.9387
   },
   {
@@ -47,6 +40,13 @@
     "topic_label": "tragedy",
     "summary": "In Mat Sirat Field, a father's son, who is riding a motorbike on the brakes, invites a gang to attack his house due to his lack of knowledge.",
     "polarity_score": -0.6597
+  },
+  {
+    "state": "Kedah",
+    "polarity": "Negative",
+    "topic_label": "travel",
+    "summary": "Over 5 hours, 163 passengers were stranded in Langkawi, Malaysia, due to a ferry engine breakdown.",
+    "polarity_score": -0.65
   },
   {
     "state": "Kedah",
@@ -59,16 +59,10 @@
     "state": "Kedah",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "The Academic initiative in Langkawi has achieved significant results, with FIM MiniGP Malaysia's Qabil Irfan holding the title of Dominary Domination Langkawi.",
+    "summary": "The Academic initiative in Langkawi has achieved significant results, with FIM MiniGP holding the title of Dominary Domination Langkawi.",
     "polarity_score": 0.1531
   },
-  {
-    "state": "Kedah",
-    "polarity": "Positive",
-    "topic_label": "travel",
-    "summary": "Over 5 hours, 163 passengers were stranded in Langkawi, Malaysia, due to a ferry engine breakdown.",
-    "polarity_score": 0
-  },
+ 
   {
     "state": "Kuala Lumpur",
     "polarity": "Negative",
@@ -79,43 +73,36 @@
   {
     "state": "Kuala Lumpur",
     "polarity": "Negative",
-    "topic_label": "tragedy",
-    "summary": "The Kuala Lumpur High Court has ordered political analyst Abdul Razak Baginda and others to pay Rm5mil in damages to the family of slain Mongolian model Altantuya Shaariibuu due to his refusal to testify under oath.",
-    "polarity_score": -0.5106
-  },
-  {
-    "state": "Kuala Lumpur",
-    "polarity": "Negative",
     "topic_label": "travel",
-    "summary": "The Kuala Lumpur Sessions Court granted temporary passport release for former Finance Minister Daim Zainuddin's wife, Naimah Abdul Khalid, for overseas trips. The release was approved by the criminal court without objection from the prosecution team, as part of RM250000 bail terms related to her ongoing asset disclosure case.",
+    "summary": "The Kuala Lumpur Sessions Court granted temporary passport release for former Finance Minister's wife for overseas trips. The release was approved by the criminal court without objection from the prosecution team, as part of RM250000 bail terms related to her ongoing asset disclosure case.",
     "polarity_score": -0.0772
   },
   {
     "state": "Kuala Lumpur",
     "polarity": "Positive",
     "topic_label": "food",
-    "summary": "Sri Nirwana Maju Kuala Lumpur Malaysia is a traditional banana leaf establishment in Bangsar, recognized on the Michelin Guide. The restaurant serves banana leaf rice, a traditional meal originating from south India, and is home to a large Tamil population. The menu features various side dishes, including chicken curry, papadams, chilis, cucumber raita, potato curry, and deep-fried bitter gourd. Kuala Lumpur is known for its diverse flavors and is home to some of the best food in the country. Chef Hafizzul Hashim, who has worked at some of the world's finest hotels and restaurants, is passionate about running his own \"little eatery\" in Bandaraya, Singapore, serving elevated, refined Nusantara cuisine using locally sourced ingredients.",
+    "summary": "Sri Nirwana Maju Kuala Lumpur Malaysia is a traditional banana leaf establishment in Bangsar, recognized on the Michelin Guide. The restaurant serves banana leaf rice, a traditional meal originating from south India, and is home to a large Tamil population. The menu features various side dishes, including chicken curry, papadams, chilis, cucumber raita, potato curry, and deep-fried bitter gourd. Kuala Lumpur is known for its diverse flavors and is home to some of the best food in the country. Chef, has worked at some of the world's finest hotels and restaurants, is passionate about running his own \"little eatery\" in Bandaraya, Singapore, serving elevated, refined Nusantara cuisine using locally sourced ingredients.",
     "polarity_score": 0.7003
   },
   {
     "state": "Kuala Lumpur",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "Malaysia's Prime Minister, Datuk Seri Anwar Ibrahim, attended the 128th Police Force Commission meeting on 11 July 2024. The meeting, chaired by Interior Minister Datuk Seri Kementerian, discussed governance issues and appointment of promotions. The meeting also included the Director of Police Service (CP) Dato Azmi Abu Kassim and SPP Division Secretary Mohd Khairul Zamaludin. The Malaysian government is now in the final process to prepare for the ASEAN presidency year 2025, with three major milestones outlined: security, politics, economy, and socioculture. The meeting also included representatives from the Malaysian Foreign Ministry, the KPN, and international relations organizations.",
+    "summary": "Malaysia's Prime Minister, attended the 128th Police Force Commission meeting on 11 July 2024. The meeting, chaired by Interior Minister Datuk Seri Kementerian, discussed governance issues and appointment of promotions. The meeting also included the Director of Police Service (CP) and SPP Division Secretary. The Malaysian government is now in the final process to prepare for the ASEAN presidency year 2025, with three major milestones outlined: security, politics, economy, and socioculture. The meeting also included representatives from the Malaysian Foreign Ministry, the KPN, and international relations organizations.",
     "polarity_score": 0.34
   },
   {
     "state": "Kuala Lumpur",
     "polarity": "Positive",
     "topic_label": "religion",
-    "summary": "High Commissioner He Bnreddy attended the 10th International Day of Yoga celebrations at Brahma Kumaris Bangsar Centre in Kuala Lumpur. Raja Yogaini Doi Meera Director highlighted yoga's growing awareness in Malaysia. Around 100 students, teachers, and eminent personalities participated in yoga sessions.",
+    "summary": "High Commissioner attended the 10th International Day of Yoga celebrations at Brahma Kumaris Bangsar Centre in Kuala Lumpur. The director highlighted yoga's growing awareness in Malaysia. Around 100 students, teachers, and eminent personalities participated in yoga sessions.",
     "polarity_score": 0.1779
   },
   {
     "state": "Kuala Lumpur",
     "polarity": "Negative",
     "topic_label": "tragedy",
-    "summary": "The Ministry of Women, Family and Community Development (KPWKM) in Kuala Lumpur is investigating a case involving two boys who allegedly ate rat poisoned crackers. The ministry has provided help and counseling to the victims' households. The Public Relations Practitioners Society of Malaysia has welcomed former Malaysian politician, Tam Tengku Tan Sri Azlan, as its founding patron. Azlan, a former member of the royal family, is also the chairman of the Kuantan Port Authority and the Tun Hussein Onn National Eye Hospital.",
+    "summary": "The Ministry of Women, Family and Community Development (KPWKM) in Kuala Lumpur is investigating a case involving two boys who allegedly ate rat poisoned crackers. The ministry has provided help and counseling to the victims' households. The Public Relations Practitioners Society of Malaysia has welcomed former Malaysian politician, as its founding patron. A former member of the royal family, is also the chairman of the Kuantan Port Authority and the Tun Hussein Onn National Eye Hospital.",
     "polarity_score": -0.0258
   },
   {
@@ -150,7 +137,7 @@
     "state": "Melaka",
     "polarity": "Positive",
     "topic_label": "travel",
-    "summary": "Melaka, located 145km south of Kuala Lumpur, offers a day trip to Melaka, a strategic trading port from the 15th century to the mid-17th century. The trip includes stops at the Hindu Shrine, Batu Caves, and the city's unique architecture. The Baltazar Pirate Cruise provides 24-hour door-to-door service, punctuality, friendly transport transfers, and comfortable vehicles. The tour also includes a visit to Kanchanaburi, exploring the heritage of Georgetown and Melaka, and exploring Phang Nga Bay and Khao Sok National Park. For a limited time, visitors can save up to 1000pp on selected 2024-2025 departures. The tour also includes an outreach collaborative project featuring young Malaysian musicians under the baton of Music Director Cheryl Mah and Guest Conductor Damrih Banawitayakit from Silpakorn University Thailand. The age limit is 5 years old and above.",
+    "summary": "Melaka, located 145km south of Kuala Lumpur, offers a day trip to Melaka, a strategic trading port from the 15th century to the mid-17th century. The trip includes stops at the Hindu Shrine, Batu Caves, and the city's unique architecture. The Baltazar Pirate Cruise provides 24-hour door-to-door service, punctuality, friendly transport transfers, and comfortable vehicles. The tour also includes a visit to Kanchanaburi, exploring the heritage of Georgetown and Melaka, and exploring Phang Nga Bay and Khao Sok National Park. For a limited time, visitors can save up to 1000pp on selected 2024-2025 departures. The tour also includes an outreach collaborative project featuring young Malaysian musicians under the baton of Music Director and Guest Conductor from Silpakorn University Thailand. The age limit is 5 years old and above.",
     "polarity_score": 0.891
   },
   {
@@ -177,15 +164,8 @@
   {
     "state": "Negeri Sembilan",
     "polarity": "Positive",
-    "topic_label": "tragedy",
-    "summary": "Looking for babysitter near port dickson",
-    "polarity_score": 0
-  },
-  {
-    "state": "Negeri Sembilan",
-    "polarity": "Positive",
     "topic_label": "travel",
-    "summary": "Ancasa Port Dickson offers a stay play package, including a one-night stay in a fancy apartment with breakfast, tickets to Splashmania, and a relaxing pool experience. The deal is valid until December 31, 2024. For reservations and inquiries, contact 60 12238 3584. A new VTT terminal has been installed, and credit and debit cards can now be accepted. Motor parts repair and accessories can be found at Mr Hook. An exclusive seafront holiday villa with a private swimming pool overlooking the straits of Melakaholiday Gateway is available for family gatherings and company retreats. For inquiries and reservations, contact 019300 7588. The IAC team went on a retreat to Bayu Beach Resort in Port Dickson Sparks to strengthen bonds and enhance communication. Tour and transportation services are available in Malaysia, with personal drivers and transportation. The finals of the MSSD Kuala Pilah Athletics Championship were held, with 48 schools participating.",
+    "summary": "Ancasa Port Dickson offers a stay play package, including a one-night stay in a fancy apartment with breakfast, tickets to Splashmania, and a relaxing pool experience. The deal is valid until December 31, 2024. For reservations and inquiries, contact 60 12238 3584. A new VTT terminal has been installed, and credit and debit cards can now be accepted. Motor parts repair and accessories can be found. An exclusive seafront holiday villa with a private swimming pool overlooking the straits of Melakaholiday Gateway is available for family gatherings and company retreats. For inquiries and reservations, contact 019300 7588. The IAC team went on a retreat to Bayu Beach Resort in Port Dickson Sparks to strengthen bonds and enhance communication. Tour and transportation services are available in Malaysia, with personal drivers and transportation. The finals of the MSSD Kuala Pilah Athletics Championship were held, with 48 schools participating.",
     "polarity_score": 0.9552
   },
   {
@@ -193,55 +173,55 @@
     "polarity": "Negative",
     "topic_label": "politics",
     "summary": "Former Pulau Pinang Chief Minister suggests dropping four charges due to contradictory testimony from key prosecution witness FMTnews FM Teng.",
-    "polarity_score": -0.7717
+    "polarity_score": -0.5717
   },
   {
     "state": "Pulau Pinang",
-    "polarity": "Positive",
+    "polarity": "Negative",
     "topic_label": "tragedy",
-    "summary": "The past few days have seen a number of incidents in Pulau Pinang which is a small town on the west coast of Borneo in Indonesia and it is not the first time the town has seen a number of incidents.",
-    "polarity_score": 0.1531
+    "summary": "The past few days have seen a number of incidents in Pulau Pinang and it is not the first time the town has seen a number of incidents. Police are currently searching for a white Perodua Myvi driver who was driving recklessly leading to an accident involving two cars at km 93 on the Ipoh Butterworth Road. A viral video uploaded on Facebook showed the driver driving recklessly, leading to the accident. Police have filed two police reports and recorded conversations as part of their investigation. Preliminary investigations reveal the owner of the Perodua Myvi is a 45-year-old Indian woman. The case is classified under section 42 1 of the Road Transport Act 1987. In Taiping, 12 men were arrested and 57 motorcycles were seized in an integrated operation against street racers on the Ipoh Butterworth Road near Batu 5 at Changkat Jering. Two individuals were found positive for amphetamine and methamphetamine. The operation was conducted by the investigation and traffic enforcement division of the Taiping District Police Headquarters, assisted by the investigation and traffic enforcement department.",
+    "polarity_score": -0.5531
   },
   {
     "state": "Pulau Pinang",
     "polarity": "Negative",
     "topic_label": "travel",
-    "summary": "The upcoming Mutiara line in Pulau Pinang Island will not reduce congestion on the first bridge, which is the source of the island's traffic issues. Police are currently searching for a white Perodua Myvi driver who was driving recklessly leading to an accident involving two cars at km 93 on the Ipoh Butterworth Road. A viral video uploaded on Facebook showed the driver driving recklessly, leading to the accident. Police have filed two police reports and recorded conversations as part of their investigation. Preliminary investigations reveal the owner of the Perodua Myvi is a 45-year-old Indian woman. The case is classified under section 42 1 of the Road Transport Act 1987. In Taiping, 12 men were arrested and 57 motorcycles were seized in an integrated operation against street racers on the Ipoh Butterworth Road near Batu 5 at Changkat Jering. Two individuals were found positive for amphetamine and methamphetamine. The operation was conducted by the investigation and traffic enforcement division of the Taiping District Police Headquarters, assisted by the investigation and traffic enforcement department.",
-    "polarity_score": -0.6908
+    "summary": "The upcoming Mutiara line in Pulau Pinang Island will not reduce congestion on the first bridge, which is the source of the island's traffic issues.",
+    "polarity_score": -0.1908
   },
   {
     "state": "Pulau Pinang",
     "polarity": "Positive",
     "topic_label": "food",
-    "summary": "The Light Street Branch in Pulau Pinang has opened, housed within an iconic heritage building. The branch offers modern banking services, art exhibitions, and a peranakan restaurant called Kota Bistro. Chef Chee Teong Yeoh has returned to Feringgi Grill, bringing back the charm of Pulau Pinang's longeststanding grill since 1973. The restaurant offers unique culinary creations and techniques learned from global executive chefs. The restaurant is a foodie paradise, with dishes like char kway teow, hokkien prawn mee soup, and more. The restaurant is under the auspices of the Persatuan Peranakan Baba Nyonya Pulau Pinang. The restaurant also has a dessert shop called Beansfactory, which has opened its first outlet in Georgetown. The restaurant is known for its latenight desserts and is open until 1am daily. Quallys Syok Segarnya is a new dining spot in Pulau Pinang, offering good and quality meals without breaking the bank. The restaurant also held a foodbank event at the Dewan on 10 July 2024, providing nourishment to 200 devotees during the Sri Kaliamman Temple Chariot procession.",
+    "summary": "The Light Street Branch in Pulau Pinang has opened, housed within an iconic heritage building. The branch offers modern banking services, art exhibitions, and a peranakan restaurant called Kota Bistro. Chef has returned to Feringgi Grill, bringing back the charm of Pulau Pinang's longeststanding grill since 1973. The restaurant offers unique culinary creations and techniques learned from global executive chefs. The restaurant is a foodie paradise, with dishes like char kway teow, hokkien prawn mee soup, and more. The restaurant is under the auspices of the Persatuan Peranakan Baba Nyonya Pulau Pinang. The restaurant also has a dessert shop called Beansfactory, which has opened its first outlet in Georgetown. The restaurant is known for its latenight desserts and is open until 1am daily. Quallys Syok Segarnya is a new dining spot in Pulau Pinang, offering good and quality meals without breaking the bank. The restaurant also held a foodbank event at the Dewan on 10 July 2024, providing nourishment to 200 devotees during the Sri Kaliamman Temple Chariot procession.",
     "polarity_score": 0.9371
   },
   {
     "state": "Pulau Pinang",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "The Threeislands reclamation project in the south of Pulau Pinang has received support from a group of residents and fishermen, who submitted a petition with 1521 signatures to Chief Minister Chow Kong Yeow. The group, Pertubuhan Lestari Alam Sekitar Pulau Pinang Plaza, argues that many fishermen are awaiting free boats with high-powered engines, which were promised under the project. The group commends Bursa Malaysia for its role in raising capital for eligible companies to grow and succeed in their respective fields.\n\nThe Pulau Pinang government welcomes Bursa Malaysia to build ties with stateowned agencies such as investPulau Pinang to explore potential areas of collaboration in conjunction with George Town Heritage Day. Tindak Malaysia recently announced updates to postal vote regulations, pointing out that domestic outstation voters in Malaysia should be made absent voters.\n\nAnother significant event was the PKP Perais Bowling Tournament 2024, which saw 40 participants from all races participate. The tournament was officiated by YB Dato Seri Sundarajoo DSSR and MBSP Councilor Brother Ponnudurai. The tournament was officiated by YB Dato Seri Sundarajoo DSSR and announced plans for a bigger tournament soon under Kadun Perai.\n\nMPK Perai's performance report for January 2024 and June 2024 includes all programs, meetings, complaints, visits, welfare activities, and detailed accounts for expenses. The report emphasizes the commitment to working together to achieve goals and serve the community better.\n\nOn July 20, 2024, eighteen members of IWC Butterworth attended the club's 5th annual general meeting to confirm its sixth executive committee. President Shanthi K Shanmugam introduced new logos themes and goals for the first term of the second century of Inner Wheel.",
+    "summary": "The Threeislands reclamation project in the south of Pulau Pinang has received support from a group of residents and fishermen, who submitted a petition with 1521 signatures to Chief Minister Chow Kong Yeow. The group, Pertubuhan Lestari Alam Sekitar Pulau Pinang Plaza, argues that many fishermen are awaiting free boats with high-powered engines, which were promised under the project. The group commends Bursa Malaysia for its role in raising capital for eligible companies to grow and succeed in their respective fields.\n\nThe Pulau Pinang government welcomes Bursa Malaysia to build ties with stateowned agencies such as investPulau Pinang to explore potential areas of collaboration in conjunction with George Town Heritage Day. Tindak Malaysia recently announced updates to postal vote regulations, pointing out that domestic outstation voters in Malaysia should be made absent voters.\n\nAnother significant event was the PKP Perais Bowling Tournament 2024, which saw 40 participants from all races participate. The tournament was officiated by a Dato DSSR and MBSP Councilor. The tournament was officiated by the Dato DSSR and announced plans for a bigger tournament soon under Kadun Perai.\n\nMPK Perai's performance report for January 2024 and June 2024 includes all programs, meetings, complaints, visits, welfare activities, and detailed accounts for expenses. The report emphasizes the commitment to working together to achieve goals and serve the community better.\n\nOn July 20, 2024, eighteen members of IWC Butterworth attended the club's 5th annual general meeting to confirm its sixth executive committee. President introduced new logos themes and goals for the first term of the second century of Inner Wheel.",
     "polarity_score": 0.9531
   },
   {
     "state": "Pulau Pinang",
     "polarity": "Positive",
     "topic_label": "religion",
-    "summary": "Raaj Ganesh Chandragasan, founder of Raaj Tea Palace Brickfields in Pulau Pinang Perai, shares his financial advice for entrepreneurs, including budgeting and securing funding. He also shares his experience with Ustazah during SPM and Stam in SMI Almasriyyah Bukit Mertajam, teaching Shariah Islamiyyah and Arudh Qafiyah and Balaghah.",
+    "summary": "Founder of Raaj Tea Palace Brickfields in Pulau Pinang Perai, shares his financial advice for entrepreneurs, including budgeting and securing funding. He also shares his experience with Ustazah during SPM and Stam in SMI Almasriyyah Bukit Mertajam, teaching Shariah Islamiyyah and Arudh Qafiyah and Balaghah.",
     "polarity_score": 0.6908
   },
   {
     "state": "Pulau Pinang",
     "polarity": "Positive",
     "topic_label": "tragedy",
-    "summary": "Nurain Hasnorizal, 25, has retired from her 43-year career in the water supply corporation, which began in 1981, and has worked with five companies, with the longest tenure being 32 years with Kelinik Seberang Perai Sdn Bhd.",
+    "summary": "A individual has retired from her 43-year career in the water supply corporation, which began in 1981, and has worked with five companies, with the longest tenure being 32 years with Kelinik Seberang Perai Sdn Bhd.",
     "polarity_score": 0
   },
   {
     "state": "Pulau Pinang",
     "polarity": "Positive",
     "topic_label": "travel",
-    "summary": "Pulau Pinang has become a cashless state, with over 95 transactions since January, marking the only state to achieve this. The finale show of GTFW Pulau Pinang for Body Glovemy celebrated the achievements of its vmodel students.\n\nPulau Pinang, Malaysia, has declared itself a \"cashless state\" with 95% of transactions using epayments. A seminar on the importance of sleep took place at Ak Academy on July 11, 2024, with guest speakers Dr. Lee Mun Kiat and MD Usu Cna Oum. Sleep is essential for maintaining physical health, mental clarity, emotional balance, overall wellbeing, strengthening the immune system, improving cognitive function, and enhancing mood and productivity. Without sufficient sleep, individuals risk facing serious health issues such as weakened immunity, impaired memory, and decreased work performance.\n\nThe Ak Academy is hosting a cultural night run 2024, featuring various events and promotions. The event will take place from 11th to 14th July, featuring the latest Indian wedding collections, home needs, ladies accessories, jewelry, clothing collections, sarees, kurtas, kurtis, punjabi suits, lenggas, jippa, kids wear, and more.\n\nBursa Malaysia has committed to assisting 100 companies from Pulau Pinang in raising capital and ensuring business sustainability. Teleperformance is looking for Urdu and Farsi speakers to join their content moderation team. Business owners can stay updated on crucial SST updates and participate in seminars and forums to learn about taxable services, tax rates, and the transitional period.\n\nAn exclusive seminar and forum hosted by LotusArts Skills Perbekas Jabatan Kastam Diraja Malaysia Royal Malaysia Customs Department will be held on July 30th, 2024, at the iconic Hotel Pulau Pinang. The event will feature expert insights on the latest SST changes, tax rates, and the transitional period, which are crucial knowledge for manufacturers, importers, exporters, and more.\n\nIn addition to these events, Pulau Pinang is also hosting the George Town Heritage Day giveaway, where winners will receive Pacific Coffee RMB10 cash vouchers.",
+    "summary": "Pulau Pinang has become a cashless state, with over 95 transactions since January, marking the only state to achieve this. The finale show of GTFW Pulau Pinang for Body Glovemy celebrated the achievements of its vmodel students.\n\nPulau Pinang, Malaysia, has declared itself a \"cashless state\" with 95% of transactions using epayments. A seminar on the importance of sleep took place at Ak Academy on July 11, 2024, with guest speakers. Sleep is essential for maintaining physical health, mental clarity, emotional balance, overall wellbeing, strengthening the immune system, improving cognitive function, and enhancing mood and productivity. Without sufficient sleep, individuals risk facing serious health issues such as weakened immunity, impaired memory, and decreased work performance.\n\nThe Ak Academy is hosting a cultural night run 2024, featuring various events and promotions. The event will take place from 11th to 14th July, featuring the latest Indian wedding collections, home needs, ladies accessories, jewelry, clothing collections, sarees, kurtas, kurtis, punjabi suits, lenggas, jippa, kids wear, and more.\n\nBursa Malaysia has committed to assisting 100 companies from Pulau Pinang in raising capital and ensuring business sustainability. Teleperformance is looking for Urdu and Farsi speakers to join their content moderation team. Business owners can stay updated on crucial SST updates and participate in seminars and forums to learn about taxable services, tax rates, and the transitional period.\n\nAn exclusive seminar and forum hosted by LotusArts Skills Perbekas Jabatan Kastam Diraja Malaysia Royal Malaysia Customs Department will be held on July 30th, 2024, at the iconic Hotel Pulau Pinang. The event will feature expert insights on the latest SST changes, tax rates, and the transitional period, which are crucial knowledge for manufacturers, importers, exporters, and more.\n\nIn addition to these events, Pulau Pinang is also hosting the George Town Heritage Day giveaway, where winners will receive Pacific Coffee RMB10 cash vouchers.",
     "polarity_score": 0.9682
   },
   {
@@ -265,32 +245,26 @@
     "summary": "Durian enthusiasts can enjoy high-grade durians at Duiotourism Mardi Mardi Kuala Kangsar for a fee of RMB50 per adult. The annual sports day is happening at Smjk Yuk Choy tomorrow, and visitors can bring their families and friends. The festival is celebrating the innovation and prosperity of Durian. Sales for farm produce will be limited until July 29, 2024, depending on available fruits. The festival apologizes for any inconvenience and expresses gratitude to those who supported the opening of the Duiotourism packages.",
     "polarity_score": 0.9753
   },
-  {
-    "state": "Perak",
-    "polarity": "Positive",
-    "topic_label": "politics",
-    "summary": "Kampar's reputation in their town, including Rafique Sher Mohamed's first English debate, made him friendly with Star Ipoh, even in form 1 and form 3, making him a proud figure.",
-    "polarity_score": 0.743
-  },
+ 
   {
     "state": "Perak",
     "polarity": "Positive",
     "topic_label": "religion",
     "summary": "The Department of Mathematics Science and Computer at Politeknik Ungku Omar Puo conducted a workshop introducing STEM, technology, engineering, and mathematics education to students at Maahad Tahfiz Alquran Akademik Bakip Mataqab.",
-    "polarity_score": 0
+    "polarity_score": 0.213
   },
   {
     "state": "Perak",
     "polarity": "Positive",
     "topic_label": "travel",
-    "summary": "Tourism-related activities in Kampar's porphyritic granite rock area are currently prohibited. Landing in Kuala Lumpur soon, Malaysiaairplane arrival is expected. We provide klia airport transfer and can arrange for an hourly booking with driver catered to your needs. We also offer full and half day tours of various Malaysian cities, including Genting Highland, Melaka, Klang Valley, Kuala Lumpur, Pulau Pinang, Ipoh, and Camaron Highland.\n\nA cosplay gathering event was held at Aeon Big Falim in June 2024, organized by Team Seller Ipoh. The Progressive Headquarters of Bonanza Venture Holdings BvH and Perak's first green building provisionally certified platinum in the Green Building Index continue to earn awards. The Kinta Valley String Orchestra will hold a weekend of enchanting music at Mamut Room Level 1 at No. 1 Jalan Lasam, Ipoh.\n\nThe Junior Chamber International JCI Ipoh Committee spent a pleasant day with the JCI National President, Bruce Ban, visiting Jaycee Park. The project is part of the Ipoh Heritage Tourism Initiative, overseen by the Ipoh City Council.\n\nKuala Kangsar has hosted several events, including a great urbansketching experience and an orchard tour at Dusun Camping Cabin. The district school sports council hockey championship for the male category under 12 and under 18 has ended, with the under 12 and under 18 champions and under 18 champions receiving congratulations. Congratulations to all school hockey teams who competed throughout the day and to the under 12 and under 18 champions, as well as to the coaches and guiding teachers.",
+    "summary": "A cosplay gathering event was held at Aeon Big Falim in June 2024, organized by Team Seller Ipoh. The Progressive Headquarters of Bonanza Venture Holdings BvH and Perak's first green building provisionally certified platinum in the Green Building Index continue to earn awards. The Kinta Valley String Orchestra will hold a weekend of enchanting music at Mamut Room Level 1 at No. 1 Jalan Lasam, Ipoh.\n\nThe Junior Chamber International JCI Ipoh Committee spent a pleasant day with the JCI National President, Bruce Ban, visiting Jaycee Park. The project is part of the Ipoh Heritage Tourism Initiative, overseen by the Ipoh City Council.\n\nKuala Kangsar has hosted several events, including a great urbansketching experience and an orchard tour at Dusun Camping Cabin. The district school sports council hockey championship for the male category under 12 and under 18 has ended, with the under 12 and under 18 champions and under 18 champions receiving congratulations. Congratulations to all school hockey teams who competed throughout the day and to the under 12 and under 18 champions, as well as to the coaches and guiding teachers.",
     "polarity_score": 0.981
   },
   {
     "state": "Selangor",
     "polarity": "Negative",
     "topic_label": "food",
-    "summary": "In the first case over 100 packets of what is suspected to be syabu were found in a suspectâs car in the desa petaling area",
+    "summary": "In the first case over 100 packets of what is suspected to be syabu were found in a suspects car in the desa petaling area",
     "polarity_score": -0.2263
   },
   {
@@ -304,7 +278,7 @@
     "state": "Selangor",
     "polarity": "Negative",
     "topic_label": "tragedy",
-    "summary": "The Selangor Journal reports that the state assembly has sent a letter to the police for updates on the Faisal Halim acid attack probe. A babysitter has been arrested for allegedly abusing a toddler in Selangor, and a cannabis trafficking syndicate has been crippled. A gas leak at Selang Aircraft Engineering's southern support zone of Kuala Lumpur International Airport has been traced to an abandoned skid tank left unattended for nine years. A nine-year-old boy drowned after slipping and falling into a lake in Serendah. An elderly man was burned to death in a car fire incident at Laluan Sri Kuang Desarasi. An elderly man was in his 70s and was driving a proton Saga Iswara. The firefighting operation involved eight personnel. A man named Jejak Kasih Berjaya managed to find his uncle's younger brother in Khou Sukhirin Bukit Sukhirin after more than 20 years.",
+    "summary": "The Selangor Journal reports that the state assembly has sent a letter to the police for updates on the Faisal Halim acid attack probe. A babysitter has been arrested for allegedly abusing a toddler in Selangor, and a cannabis trafficking syndicate has been crippled. A gas leak at Selang Aircraft Engineering's southern support zone of Kuala Lumpur International Airport has been traced to an abandoned skid tank left unattended for nine years. A nine-year-old boy drowned after slipping and falling into a lake in Serendah. An elderly man was burned to death in a car fire incident at Laluan Sri Kuang Desarasi. An elderly man was in his 70s and was driving a proton Saga Iswara. The firefighting operation involved eight personnel. A man managed to find his uncle's younger brother in Khou Sukhirin Bukit Sukhirin after more than 20 years.",
     "polarity_score": -0.9709
   },
   {
@@ -318,35 +292,35 @@
     "state": "Selangor",
     "polarity": "Positive",
     "topic_label": "food",
-    "summary": "Lucky Food Street in Bandar Botanik, Klang offers the best Taiwanese-style fried chicken chop at RM11. The stall offers boneless meat, crisp skin, and other snacks like Korean-style spicy chicken fries and wedges. They also offer desserts like Smiling Face With Hearteyes and Apple products like iPhone, iPad, and Mac. Maxis Green Apple offers contract-free options and plans for Apple products. Night Market Saujana Rawang is open every Tuesday and has over 8 branches. The author witnessed the persistence of the Chicken Royale branch, which has more than 8 branches. They have to work hard and be ready to rise a thousand times. Assalamualaikum has new Durians available at their cheap CPT.The 4th Stone Shop in Batang Berjuntai, Malaysia, offers a variety of food and beverages for its customers. The shop also has a photobooth promo and is suitable for various events, including weddings, corporate events, birthday parties, and corporate events. The first outdoor cat park in Malaysia, Cat Face, is now open to the public in Shah Alam. The park features over 14 cat houses, a garden, lounge spots, playground, slide, underground tunnels, railway track, and a cat drinking fountain. Free dry cat food is provided, but outside food and drinks are not allowed. The park has a maximum of 20 cats and owners per session. The shop also hosts a soccer ball and a ranger competition. The shop also offers a cocktail of the month at The Sphere Lounge, featuring a mix of whisky, tequila rum, and black vodka.Jingcheng Mynow FFFC, a sushi retail assistant at Sushi Plus, is opening a new location in Petaling Jaya Selangor, Subang Jaya Selangor, Johor Bahru Johor. The restaurant serves Beijing-style roast duck, also known as peking duck, with a focus on the whole duck roasted perfectly and carved tableside. The menu includes savoury mustardglazed duck webs and baked okra. The restaurant is open daily from 11am to 10pm.\n\nTeluk Intan is hosting a food festival next week, Gais Soul, featuring over 6 influencers and over 70 vendors of viral food. The festival will take place on July 14, 2024, at the Round Pushpin OCBC Teluk Intan Bank Site.\n\nMzag Agro Farm Farm in BNO Sabak Bernam Selangor is opening a new cafe in mid-July. The cafe is known for its good food cooked with passion and is located in a house at SS17. Benjy Cafe, located in SS16, offers lunch grilled chicken with prawn and chicken salad. The cafe is also a great place to chill after work and enjoy a pleasant evening.The chef samermumtaz kitchen is open from Monday to Friday from 800 am to 1100 pm at Giant Usj 1 Subang Jaya. They offer fried turnip cakes and fried sweet potato balls, as well as a truck outside Restoran Kwai Sun Sttic. They also open on weekends from 9am to noon and on Sunday evenings at Taman Megah Night Market, Eng Teck, and Jin Xuan Taipan. The dim sum is better than those in Ipoh, and the prices are very close. The squinting face with tongue is a popular dish, while the sambal bakar ayam is served piping hot with tender chicken thigh, tempe kangkung, and basil. The round pushpin kotak plus in SSS15 Subang Jaya has been highly rated. The hakka noodles at Restoran Wai Kwan at Court 2 UJS6 are handmade by the owners and are high in protein and low in fat and calories. The owner has been supportive and understanding of the new menu items, and the restaurant has introduced a new basmati nasi lemak kukus with cumin jintan. The restaurant has also opened its 5th outlet in Malaysia, and the musttry jumbo fruit tea is available for less than RM10.The restaurant offers a variety of delicious dishes, including the popular Sundae ice cream and soft ice cream. The new Momoyo outlet in Subang Jaya is also recommended for its fried chicken and coconut shake. The restaurant also serves curry mee head shaking horizontally.\n\nFor a refreshing meal, we visited Nyonya Chendol, which offers premium versions of their fresh Santan and gula melaka. The chendol is perfect in texture, with a burst of pandan at every slurp and no greasy residue on the tongue. The kidney beans are perfectly cooked with texture and chew notes.\n\nThe restaurant also serves asam laksa and tricolour nasi lemak with daging rendang. The ubi kayu is consistent and has the perfect texture for root dishes. The sambal bakar ayam is served piping hot and comes with tender chicken thigh tempe kangkung, and basil. The restaurant also has a special marinate made with real ingredients like pineapple and yogurt, making it non-spicy.\n\nThe restaurant also offers a variety of snacks and main courses, such as the Bento Box, which can be packed in kids' lunchboxes for school meals or used as a main course for lunch or dinner. Overall, the restaurant offers a wide variety of delicious and satisfying dishes for a satisfying dining experience.The text describes a dining experience at various establishments in Malaysia, including Nasi Goreng Kampung, Pushpin, and Al Daud Restaurant. Nasi Goreng Kampung is a flavorful restaurant with a unique design for hangout and delicious dishes. The platter includes fish fingers, chicken wrap, and wings, with the wrap being toastpressed to give it a slight crunch.\n\nPushpin's 15th outlet is now open at Lotuss Semenyih, offering pet care essentials and a spacious modern environment. Al Daud Restaurant is a Yeman cuisine restaurant in Samenyih, offering a unique hangout experience with colorful lights and lunch service from 11am.\n\nAlhamdulillah completed an assignment in the village of Majidee son to UCOPs Subri, Sulyana and Hafizan. They are now offering catering services starting as low as RM 13 and are offering a variety of interesting packages and promotions.\n\nDanjung Shiba's street snacks are worth trying, with special offers for certain items. The new stall in front of Padang Subang Bestari has a delicious indomie egg with sambal for only RM6.\n\nTe Amor Food Shop in Kampung Melayu Subang has a new menu featuring viral lime water jelly, various desserts, and a variety of desserts. The restaurant is known for its excellent customer service and commitment to providing quality food and service.",
+    "summary": "Lucky Food Street in Bandar Botanik, Klang offers Taiwanese-style fried chicken chop at RM11. The stall also offers Korean-style spicy chicken fries and wedges, as well as desserts like Smiling Face With Hearteyes. Maxis Green Apple offers contract-free options and plans for Apple products. Night Market Saujana Rawang has over 8 branches, including the Chicken Royale branch.The 4th Stone Shop in Batang Berjuntai, Malaysia, offers a variety of food and beverages for customers. Cat Face, the first outdoor cat park in Malaysia, features over 14 cat houses, a garden, lounge spots, playground, slide, underground tunnels, railway track, and a cat drinking fountain. The shop also hosts a soccer ball and ranger competition.Jingcheng Mynow FFFC, a sushi retail assistant at Sushi Plus, is opening a new location in Petaling Jaya Selangor, serving Beijing-style roast duck. Teluk Intan is hosting a food festival, Gais Soul, featuring over 6 influencers and 70 vendors of viral food. Mzag Agro Farm Farm in BNO Sabak Bernam Selangor is opening a new cafe in mid-July. Benjy Cafe offers lunch grilled chicken with prawn and chicken salad. Chef Samermumtaz Kitchen offers fried turnip cakes and sweet potato balls, as well as a truck outside Restoran Kwai Sun Sttic. Restoran Wai Kwan offers handmade hakka noodles, Sundae ice cream, soft ice cream, and curry mee head shaking horizontally. Nyonya Chendol offers premium versions of fresh Santan and gula melaka, as well as a variety of snacks and main courses. Nasi Goreng Kampung, Pushpin, and Al Daud Restaurant offer unique hangout experiences with delicious dishes. Alhamdulillah completed an assignment in Majidee son village, offering catering services starting as low as RM 13 and various packages and promotions.",
     "polarity_score": 0.9994
   },
   {
     "state": "Selangor",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "The deputy chief minister of Kelantan, Mohd Amar Abdullah, has criticized comparisons to more developed states like Selangor and Kuala Lumpur, stating that the duties of the central and state governments are different. He also highlighted the state government's approval of 4042 applications since the establishment of Malaysian Modelerjas in November. The Malaysian government is in talks with Kuwait to acquire F-18 Hornet fighter jets. The Selat Klang state seat in Selangor has not been established, and significant transformation has been seen along the Klang and Gombak rivers, which are now dynamic waterfront icons with substantial economic value. The team hosted \"green roads and highways\" workshops in Sabah Sarawak and Peninsular Malaysia, where representatives from government agencies, road planners, engineers, and environmental impact assessment consultants supported the initiative. The interns have gained insights into government operations, policymaking, and community engagement, fostering a strong sense of civic responsibility and national pride.Lee Kai Lim, a Chinese language and literature student at Peking University, is seeking an internship to broaden his horizons and gain new perspectives. He believes in the power of interdisciplinary learning and is eager to apply his skills in practical ways. Lim is also involved in the MSSD BERNAM Low Handball Championship 2024 and the Baling Judicial Decision. He is also involved in the 20172024 Tawas School Assistance Program and the Muassasah Hajj Incentive Program. Lim is also involved in the Biolife Probiotics Spend Win campaign, where participants can win house appliances worth up to Rm 27000 at Tanjung Sepat Pharmacy. The campaign runs from July 1 to August 31, 2024.",
+    "summary": "The deputy chief minister of Kelantan, has criticized comparisons to more developed states like Selangor and Kuala Lumpur, stating that the duties of the central and state governments are different. He also highlighted the state government's approval of 4042 applications since the establishment of Malaysian Modelerjas in November. The Malaysian government is in talks with Kuwait to acquire F-18 Hornet fighter jets. The Selat Klang state seat in Selangor has not been established, and significant transformation has been seen along the Klang and Gombak rivers, which are now dynamic waterfront icons with substantial economic value. The team hosted 'green roads and highways' workshops in Sabah Sarawak and Peninsular Malaysia, where representatives from government agencies, road planners, engineers, and environmental impact assessment consultants supported the initiative. The interns have gained insights into government operations, policymaking, and community engagement, fostering a strong sense of civic responsibility and national pride.",
     "polarity_score": 0.9902
   },
   {
     "state": "Selangor",
     "polarity": "Positive",
     "topic_label": "religion",
-    "summary": "Lau Weng San announced that Abdul Rashid Asari's bersatu membership termination was deemed constructive. The company is wishing salam mall hijrah to all Muslim customers and invites them to attend an event on Saturday, 13 July 2024. The event will feature refreshments, free gifts, and a test drive of the XPander Triton.\n\nThe company also invites customers to attend a Harvest event and a lecture on Maghrib Madrasah Nahdhatul. The event will also feature a sermon on the importance of diversity, integrity, and nationality in Islam.\n\nThe company is also giving away an exclusive digital tasbih to customers who send money to Pakistan at a minimum amount of RMB2000 per transfer. The ordination of Bro. Jonathan Andrew Rao to the Order of Deacon has been rescheduled, and the ceremony will now begin at 1200 noon.\n\nThe company is also inviting customers to the grand opening ceremony of Mr. Mamak Corner on Saturday, 20 July 2024. The grand opening ceremony will take place from 700pm to 1000pm.\n\nThe company is also wishing all employees a safe and successful workday, and wishing them good health and a happy birthday. The company also highlights the importance of following the example of the Buddha Temple Tanjung Sepat, which was completed at a cost of 5 million from donations.",
+    "summary": "A company is inviting Muslim customers to an event on 13 July 2024, featuring refreshments, free gifts, and a test drive of the XPander Triton. Additionally, customers can participate in a Harvest event and a lecture on Maghrib Madrasah Nahdhatul. The company is also giving away an exclusive digital tasbih to customers who send money to Pakistan.",
     "polarity_score": 0.9892
   },
   {
     "state": "Selangor",
     "polarity": "Positive",
     "topic_label": "tragedy",
-    "summary": "Over 2000 individuals in Selangor have sought mental health treatment annually since 2020, according to the state legislative assembly sitting. Trust brands provides reliable and compassionate care for loved ones, keeping them updated on their health. The funeral of late Sardar Shirh Singh Batang Berjuntai will take place on July 8th, 2024, at 12pm.\n\nThe Shah Alam community forest reserve is in danger due to a legal loophole that could affect all forest reserves. The Malaysian Motorsports Association of Malaysia has reported a chemical leak at Sepang Aircraft Engineering's southern support zone. A hazardous materials hazmat team has been dispatched to Selangor after the leak.\n\nChinese state is perhaps the only \"oeethnic state\" with only one major ethnic group, but it has no lingua franca and mutually unintelligible dialects are spoken in different parts of the state. Ethnic Kachins have become a minority in their state, with most urban Mon living in the Ayeyarwady Irrawaddy region. The question of whether the Lisu and Nungrawang identify themselves as Kachins remains.\n\nTwo new hair removal machines have arrived, and thunderstorms with lightning and rain are expected in various states. High Voltage High Voltage Maramaran is released when a sign shows a thunderstorm with an intensity of rain exceeding 20 mm.\n\nIn summary, over 2000 individuals in Selangor have sought mental health treatment annually since 2020, and the state legislative assembly sitting has highlighted the importance of protecting natural heritage and addressing issues related to ethnicity and language.The Basic Pediatric First Aid CPR AED course is designed for parents, caregivers, coaches, educators, and anyone who prioritizes safety. The course covers everything from handling choking incidents to treating minor burns, ensuring you are ready to protect your loved ones. The course is scheduled for Saturday, August 10th, 2024, at Thinkbright Academy Putra Heights, costing RM300, inclusive of lunch, snacks, and materials. Seats are limited, so register now to become a certified first aider and help create a safer environment for loved ones.",
+    "summary": "Selangor has seen over 2000 individuals seeking mental health treatment annually since 2020, with trust brands providing compassionate care for loved ones. The state legislative assembly sitting highlights the importance of protecting natural heritage and addressing ethnicity and language issues. The funeral of Sardar Shirh Singh Batang Berjuntai is scheduled for July 8th, 2024. The Shah Alam community forest reserve is in danger due to a legal loophole. A chemical leak at Sepang Aircraft Engineering's southern support zone has led to a hazardous materials hazmat team dispatched to Selangor. A Basic Pediatric First Aid CPR AED course is available for parents, caregivers, coaches, and educators.",
     "polarity_score": 0.9887
   },
   {
     "state": "Kelantan",
     "polarity": "Negative",
     "topic_label": "politics",
-    "summary": "On 27 September 2024, a general shock simulation exercise was held at the Pulapol Air Hitam Control Station, attended by Ydh ACP Haslah Binti Bacok and senior police officers. The exercise aimed to increase the readiness of frontline forces for shock threats and unforeseen situations, while also ensuring maximum response time of elements.",
+    "summary": "On 27 September 2024, a general shock simulation exercise was held at the Pulapol Air Hitam Control Station, attended by senior police officers. The exercise aimed to increase the readiness of frontline forces for shock threats and unforeseen situations, while also ensuring maximum response time of elements.",
     "polarity_score": -0.3818
   },
   {
@@ -374,15 +348,8 @@
     "state": "Kelantan",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "KPN Chief of Police State, Tan Sri Razarudin Husain, was awarded the first honorary member of the Seri Paduka for his great degree of Kelantan Crown Service. The ceremony took place at Istana Balai Besar Kota Bharu, Kelantan, in conjunction with the anniversary celebration of Sultan Muhammad V. Anwar was also awarded the title Seri Paduka.",
+    "summary": "KPN Chief of Police State, was awarded the first honorary member of the Seri Paduka for his great degree of Kelantan Crown Service. The ceremony took place at Istana Balai Besar Kota Bharu, Kelantan, in conjunction with the anniversary celebration of Sultan Muhammad V",
     "polarity_score": 0.8979
-  },
-  {
-    "state": "Kelantan",
-    "polarity": "Positive",
-    "topic_label": "religion",
-    "summary": "On the 55th anniversary of Sultan Muhammad V Sultan Muhammad V 2024, Mrs. Tumpat won the young innovator category at the Smart Innovation Competition 2024 at UTS Sibu.",
-    "polarity_score": 0.8402
   },
   {
     "state": "Kelantan",
@@ -395,7 +362,7 @@
     "state": "Kelantan",
     "polarity": "Positive",
     "topic_label": "travel",
-    "summary": "On September 29, 2024, Chief of Police of the State, KPN Ig Tan Sri Razarudin Husain, was conferred with the rank of greatness in the Kelantan State Greatness Honor Award ceremony. The ceremony was held in conjunction with the 55th anniversary celebration of his royal highness, the Principality Day, and the 55th anniversary year of KDymm Sultan Muhammad V. The ceremony was attended by the Sultan of Kelantan, his royal highness, Nur Daitra Petra Abdullah, Tengku Mahkota Kelantan, Tengku Muhammad Fakhry Petra, and Late Sultan Ismail Petra. Former Kelantan Police Chief, Dato Muhamad Zaki Harun, was also granted the same degree of greatness.\n\nThe ceremony was attended by the Chairman of the Police Family Association, Perkep Malaysia, and dignitaries from the federal and state government. The ceremony also featured cultural performances and a state feast.\n\nThe celebrations included the round pushpinkuala besar maritime office, mek mas beach, progress construction of Kota Bharu Highway to Kuala Krai, and the grand riverview hotel. Families can also participate in a hands-on workshop on October 25, 2024, to learn how to create striking neonlit portraits with expert guidance from Raja Kamal.Kota Bharu, a new domestic destination in northern eastern Peninsular Malaysia, is set to open on October 21, 2024. The airport offers a variety of genuine and lively experiences, including a new camping spot in Tumpat Sweat Droplets Sun. The resort offers facilities such as a swimming pool, chalet, rooms, BBQ area, volleyball court, and comfortable restrooms. Nearby attractions include Kakyah Budu Paye, Kak Ita's Coconut Ice Cream, Cholek Khalut, Sri 7 Beach, Kak Yas viral Colek, and Sri 7 Kayak Itik.\n\nA new Thailand-Malaysia border bridge is set to boost trade and tourism. The bridge, 116 meters long, will connect Suak Kandis and Ratau Panjang in Kelantan. The construction is expected to help with crossborder trade and tourism, with Thailand's export value to Malaysia increasing to 3000 million baht. The top five import goods from Malaysia to Thailand are wood sawn, chilled fish, non-dairy creamer, wheat flour, and bread biscuit-like products, while top exported goods include chilled fish, cassava starch, fresh fruits, vegetables, and bread biscuit-like products.",
+    "summary": "On September 29, 2024, Chief of Police of the State, was conferred with the rank of greatness in the Kelantan State Greatness Honor Award ceremony. The ceremony was held in conjunction with the 55th anniversary celebration of his royal highness, the Principality Day, and the 55th anniversary year of KDymm Sultan Muhammad V. Former Kelantan Police Chief, was also granted the same degree of greatness.\n\nThe ceremony was attended by the Chairman of the Police Family Association, Perkep Malaysia, and dignitaries from the federal and state government. The ceremony also featured cultural performances and a state feast.\n\nThe celebrations included the round pushpinkuala besar maritime office, mek mas beach, progress construction of Kota Bharu Highway to Kuala Krai, and the grand riverview hotel. Families can also participate in a hands-on workshop on October 25, 2024, to learn how to create striking neonlit portraits with expert guidance from Raja Kamal.Kota Bharu, a new domestic destination in northern eastern Peninsular Malaysia, is set to open on October 21, 2024. The airport offers a variety of genuine and lively experiences, including a new camping spot in Tumpat Sweat Droplets Sun. The resort offers facilities such as a swimming pool, chalet, rooms, BBQ area, volleyball court, and comfortable restrooms. Nearby attractions include Kakyah Budu Paye, Kak Ita's Coconut Ice Cream, Cholek Khalut, Sri 7 Beach, Kak Yas viral Colek, and Sri 7 Kayak Itik.\n\nA new Thailand-Malaysia border bridge is set to boost trade and tourism. The bridge, 116 meters long, will connect Suak Kandis and Ratau Panjang in Kelantan. The construction is expected to help with crossborder trade and tourism, with Thailand's export value to Malaysia increasing to 3000 million baht. The top five import goods from Malaysia to Thailand are wood sawn, chilled fish, non-dairy creamer, wheat flour, and bread biscuit-like products, while top exported goods include chilled fish, cassava starch, fresh fruits, vegetables, and bread biscuit-like products.",
     "polarity_score": 0.9881
   },
   {
@@ -451,8 +418,8 @@
     "state": "Perlis",
     "polarity": "Negative",
     "topic_label": "tragedy",
-    "summary": "Police in Perlis have reported several incidents involving motorcycles, including a couple injured in a storm, a retiree dies, and a man injured in a crash with a cement mixer. Additionally, a trial of dozens of men accused of raping a woman has sparked horror in France, prompting legal experts to suggest revising the penal code to include consent in sex crimes. Additionally, police have foiled attempts to smuggle undocumented migrants over the Malaysia-Malaysia border.",
-    "polarity_score": -0.9584
+    "summary": "Police in Perlis have reported several incidents involving motorcycles, including a couple injured in a storm, a retiree dies, and a man injured in a crash with a cement mixer. Additionally, police have foiled attempts to smuggle undocumented migrants over the Malaysia-Malaysia border. A 13-year-old girl reported missing was found safe at Keretapi Tanah Melayu KTM Arau station in Perlis. Two friends were charged with trafficking underage girls in Kangar National Park. CCTV footage showed a woman dropping off cats from a sack in Padang Besar Sadao District, Songkhla Province. The homeowners temporarily cared for the cats, urging owners to take responsibility and find adoptive homes. The crowd assisted in rescuing supporters during a 2024 Kuala Perlis water festival.",
+    "polarity_score": -0.92815
   },
   {
     "state": "Perlis",
@@ -465,15 +432,8 @@
     "state": "Perlis",
     "polarity": "Positive",
     "topic_label": "politics",
-    "summary": "A shouting match broke out in Dewan Rakyat after Arau MP Shahidan Kasim accused Tebrau MP Jimmy Puah of publicly supporting Israel during the Gaza bombardment.",
+    "summary": "A shouting match broke out in Dewan Rakyat after one individual accused another of publicly supporting Israel during the Gaza bombardment.",
     "polarity_score": -0.2732
-  },
-  {
-    "state": "Perlis",
-    "polarity": "Positive",
-    "topic_label": "tragedy",
-    "summary": "A 13-year-old girl reported missing was found safe at Keretapi Tanah Melayu KTM Arau station in Perlis. Two friends were charged with trafficking underage girls in Kangar National Park. CCTV footage showed a woman dropping off cats from a sack in Padang Besar Sadao District, Songkhla Province. The homeowners temporarily cared for the cats, urging owners to take responsibility and find adoptive homes. The crowd assisted in rescuing supporters during a 2024 Kuala Perlis water festival.",
-    "polarity_score": 0.8979
   },
   {
     "state": "Perlis",
@@ -500,7 +460,7 @@
     "state": "Terengganu",
     "polarity": "Positive",
     "topic_label": "tragedy",
-    "summary": "A massive whale shark was released from a fishing net near Uturn Sungai Mat Ekal, Indonesia, after a boat capsized after being hit by a barge in Kamanan waters. A second body was found, believed to be from a fishing boat.",
+    "summary": "A massive whale shark was released from a fishing net after a boat capsized after being hit by a barge in Kamanan waters. A second body was found, believed to be from a fishing boat.",
     "polarity_score": 0
   },
   {
